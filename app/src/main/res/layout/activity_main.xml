@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context="com.dicoding.picodiploma.mybroadcastreceiver.MainActivity">
+    tools:context="com.example.mybroadcastreceiver.MainActivity">
 
     <TextView
         android:layout_width="match_parent"
